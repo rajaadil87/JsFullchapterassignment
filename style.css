@@ -1,0 +1,87 @@
+/* // chapter 43-48 task 1 & 2 */
+/* .ig{
+    display: flex;
+    flex-wrap: wrap;
+  margin: 100px;
+
+    } */
+
+/* // chapter 43-48 task 3 */
+
+/* #data{
+ margin-left: 10px; 
+ padding: 10px;  
+} */
+
+/* // chapter 49-52 task 1 */
+
+/* .container{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.cart{
+  background-color: rgb(199, 174, 223);
+  width: 400px;
+  height: 400px;
+}
+
+#getfirstname{
+  padding-left: 100px;
+} */
+
+ /* chapter 49-52 task 3  */
+
+ /* h3{
+   padding-left: 40px;
+   margin-left: 30px;
+ }
+ #data{
+   padding-left: 100px;
+ } */
+
+#myBtn{
+  width: 20%;
+  height: 40%;
+}
+#imgFour{
+  width: 50%;
+  height: 50%;
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 30%; /* Full width */
+  height: 30%; /* Full height */
+  /* overflow: auto;  */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; 
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+} 
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
